@@ -1,0 +1,3 @@
+```
+call db.schema.visualization
+```
